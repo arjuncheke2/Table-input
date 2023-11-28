@@ -1,0 +1,18 @@
+.container{
+    border: 1px solid grey;
+    height: 350px;
+    width: 400px;
+    margin: 20px 50px 50px 50px;
+    padding: 40px;
+  background-color: aliceblue;
+}
+h1{
+    margin-left: 150px;
+}
+.last-container{
+    font-size: 15px;
+    margin-left: 10px;
+    color:black;
+    
+    
+}
